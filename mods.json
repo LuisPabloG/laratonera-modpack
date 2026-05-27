@@ -1,0 +1,12 @@
+﻿{
+    "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
+    "loader":  "fabric",
+    "mods":  [
+                 {
+                     "name":  "voicechat-fabric-1.21.11-2.6.10.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/voicechat-fabric-1.21.11-2.6.10.jar",
+                     "sha256":  "070fbeb8da680aebbb6d013f3d26a0b5514b060a0d29bb5b07348d0666eb18ed",
+                     "required":  true
+                 }
+             ]
+}
