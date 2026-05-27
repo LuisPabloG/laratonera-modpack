@@ -1,12 +1,13 @@
 ﻿{
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
-    "news":  {
-                 "title":  "Prueba de novedad",
-                 "body":  "esto es una prueba zaaa",
-                 "updated_at":  "2026-05-27 16:25"
-             },
     "mods":  [
+                 {
+                     "name":  "CustomSkinLoader_Fabric-14.28.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/CustomSkinLoader_Fabric-14.28.jar",
+                     "sha256":  "e5973b2c680b46dd64e2cd1b4c6137188b71eb3aec7e06060fdb028dc3c9a05e",
+                     "required":  true
+                 },
                  {
                      "name":  "fabric-api-0.141.4+1.21.11.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/fabric-api-0.141.4+1.21.11.jar",
