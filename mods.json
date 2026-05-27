@@ -1,6 +1,11 @@
 ﻿{
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
+    "news":  {
+                 "title":  "Prueba de novedad",
+                 "body":  "esto es una prueba zaaa",
+                 "updated_at":  "2026-05-27 16:25"
+             },
     "mods":  [
                  {
                      "name":  "fabric-api-0.141.4+1.21.11.jar",
