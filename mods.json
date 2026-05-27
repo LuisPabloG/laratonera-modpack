@@ -1,6 +1,11 @@
 ﻿{
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
+    "news":  {
+                 "title":  "EVENTO FINAL 🔥🔥🔥",
+                 "body":  "ZAAA ESTO ES UNA PRUEBA",
+                 "updated_at":  "2026-05-27 17:06"
+             },
     "mods":  [
                  {
                      "name":  "CustomSkinLoader_Fabric-14.28.jar",
