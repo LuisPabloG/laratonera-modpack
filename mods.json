@@ -21,6 +21,12 @@
                      "required":  true
                  },
                  {
+                     "name":  "puzzle-fabric-2.3.0+1.21.11.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/puzzle-fabric-2.3.0+1.21.11.jar",
+                     "sha256":  "ede7c2fd01ad83530fba902f7a987ba2eee11419d9034d569edfa43d5979197d",
+                     "required":  true
+                 },
+                 {
                      "name":  "sodium-fabric-0.8.12+mc1.21.11.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/sodium-fabric-0.8.12+mc1.21.11.jar",
                      "sha256":  "009299748f192f6246fd6759a26304f0fea06f3412cff522d1d533e2b8db8176",
