@@ -3,6 +3,30 @@
     "loader":  "fabric",
     "mods":  [
                  {
+                     "name":  "fabric-api-0.141.4+1.21.11.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/fabric-api-0.141.4+1.21.11.jar",
+                     "sha256":  "9286762874fd20d1d45e006d175fea8ff762da54e00946bbe952c4f61077159a",
+                     "required":  true
+                 },
+                 {
+                     "name":  "indium-1.0.35+mc1.21.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/indium-1.0.35+mc1.21.jar",
+                     "sha256":  "13bd78303315ca8f08ea19dfacce8566e152c56615e93a07c490965f390d4ed8",
+                     "required":  true
+                 },
+                 {
+                     "name":  "lithium-fabric-0.21.4+mc1.21.11.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/lithium-fabric-0.21.4+mc1.21.11.jar",
+                     "sha256":  "5135c41da5b43cbdcb29424bde65195143ac4084e23834c8eac065942201c78b",
+                     "required":  true
+                 },
+                 {
+                     "name":  "sodium-fabric-0.8.12+mc1.21.11.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/sodium-fabric-0.8.12+mc1.21.11.jar",
+                     "sha256":  "009299748f192f6246fd6759a26304f0fea06f3412cff522d1d533e2b8db8176",
+                     "required":  true
+                 },
+                 {
                      "name":  "voicechat-fabric-1.21.11-2.6.10.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/voicechat-fabric-1.21.11-2.6.10.jar",
                      "sha256":  "070fbeb8da680aebbb6d013f3d26a0b5514b060a0d29bb5b07348d0666eb18ed",
