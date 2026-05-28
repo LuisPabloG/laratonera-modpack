@@ -2,9 +2,9 @@
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
     "news":  {
-                 "title":  "mueeblesss",
-                 "body":  "mueeblesss",
-                 "updated_at":  "2026-05-28 17:39"
+                 "title":  "se quito muebless",
+                 "body":  "zaasdadfwt23t2t3",
+                 "updated_at":  "2026-05-28 17:45"
              },
     "mods":  [
                  {
@@ -29,12 +29,6 @@
                      "name":  "lithium-fabric-0.21.4+mc1.21.11.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/lithium-fabric-0.21.4+mc1.21.11.jar",
                      "sha256":  "5135c41da5b43cbdcb29424bde65195143ac4084e23834c8eac065942201c78b",
-                     "required":  true
-                 },
-                 {
-                     "name":  "mdm-26.5.0-fabric-1.21.11.jar",
-                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/mdm-26.5.0-fabric-1.21.11.jar",
-                     "sha256":  "c2d74732d2fd43c1fa7def3a655759a75eaea48c4be552a025939467b889c8b3",
                      "required":  true
                  },
                  {
