@@ -1,6 +1,11 @@
 ﻿{
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
+    "news":  {
+                 "title":  "hola",
+                 "body":  "prueba numero 22",
+                 "updated_at":  "2026-05-28 17:03"
+             },
     "mods":  [
                  {
                      "name":  "CustomSkinLoader_Fabric-14.28.jar",
