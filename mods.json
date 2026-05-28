@@ -2,9 +2,9 @@
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
     "news":  {
-                 "title":  "hola",
-                 "body":  "prueba numero 22",
-                 "updated_at":  "2026-05-28 17:23"
+                 "title":  "xdxdx",
+                 "body":  "xdxdxd",
+                 "updated_at":  "2026-05-28 17:25"
              },
     "mods":  [
                  {
@@ -29,12 +29,6 @@
                      "name":  "lithium-fabric-0.21.4+mc1.21.11.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/lithium-fabric-0.21.4+mc1.21.11.jar",
                      "sha256":  "5135c41da5b43cbdcb29424bde65195143ac4084e23834c8eac065942201c78b",
-                     "required":  true
-                 },
-                 {
-                     "name":  "nhatjs_furniture_fabric+1.21.11-1.0.5.jar",
-                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/nhatjs_furniture_fabric+1.21.11-1.0.5.jar",
-                     "sha256":  "99d9946583d6d7d63d747ef8363d9979eb96bcb55e2177e19724bbcbbf2303d5",
                      "required":  true
                  },
                  {
