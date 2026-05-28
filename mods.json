@@ -1,6 +1,11 @@
 ﻿{
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
+    "news":  {
+                 "title":  "mueeblesss",
+                 "body":  "mueeblesss",
+                 "updated_at":  "2026-05-28 17:39"
+             },
     "mods":  [
                  {
                      "name":  "CustomSkinLoader_Fabric-14.28.jar",
@@ -27,6 +32,12 @@
                      "required":  true
                  },
                  {
+                     "name":  "mdm-26.5.0-fabric-1.21.11.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/mdm-26.5.0-fabric-1.21.11.jar",
+                     "sha256":  "c2d74732d2fd43c1fa7def3a655759a75eaea48c4be552a025939467b889c8b3",
+                     "required":  true
+                 },
+                 {
                      "name":  "puzzle-fabric-2.3.0+1.21.11.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/puzzle-fabric-2.3.0+1.21.11.jar",
                      "sha256":  "ede7c2fd01ad83530fba902f7a987ba2eee11419d9034d569edfa43d5979197d",
@@ -44,10 +55,5 @@
                      "sha256":  "070fbeb8da680aebbb6d013f3d26a0b5514b060a0d29bb5b07348d0666eb18ed",
                      "required":  true
                  }
-             ],
-    "news":  {
-                 "title":  "xdxdxd",
-                 "body":  "xdxdxd",
-                 "updated_at":  "2026-05-28 17:26"
-             }
+             ]
 }
