@@ -2,11 +2,10 @@
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
     "news":  {
-                 "title":  "se cambvio l fondo",
-                 "body":  "fondo cambiado zaaa",
-                 "updated_at":  "2026-05-28 19:32"
+                 "title":  "NUEVOS MODS",
+                 "body":  "ZAASASASDDADASGASGAG\r\nASD\r\nASDF\r\nDSF",
+                 "updated_at":  "2026-05-28 19:39"
              },
-    "background_url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/launcher/fondo.png",
     "mods":  [
                  {
                      "name":  "CustomSkinLoader_Fabric-14.28.jar",
@@ -27,9 +26,21 @@
                      "required":  true
                  },
                  {
+                     "name":  "jei-1.21.11-fabric-27.4.0.22.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/jei-1.21.11-fabric-27.4.0.22.jar",
+                     "sha256":  "fa9b6d6b457a8222286ab81a7aa13a5befad709490d81e109afd31b848f138f5",
+                     "required":  true
+                 },
+                 {
                      "name":  "lithium-fabric-0.21.4+mc1.21.11.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/lithium-fabric-0.21.4+mc1.21.11.jar",
                      "sha256":  "5135c41da5b43cbdcb29424bde65195143ac4084e23834c8eac065942201c78b",
+                     "required":  true
+                 },
+                 {
+                     "name":  "mcw-furniture-3.4.2-mc1.21.11fabric.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/mcw-furniture-3.4.2-mc1.21.11fabric.jar",
+                     "sha256":  "e55d7a78b878043af82875cb8738941b0bba1a3c77652dea3d75a434dbba1a0e",
                      "required":  true
                  },
                  {
