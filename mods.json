@@ -43,12 +43,18 @@
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/voicechat-fabric-1.21.11-2.6.10.jar",
                      "sha256":  "070fbeb8da680aebbb6d013f3d26a0b5514b060a0d29bb5b07348d0666eb18ed",
                      "required":  true
+                 },
+                 {
+                     "name":  "xaerominimap-fabric-1.21.11-25.3.12.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/xaerominimap-fabric-1.21.11-25.3.12.jar",
+                     "sha256":  "ffbba377946a59e0e3d19ec043a6a0422ce081f1373f14dd336d05971fc8dcf4",
+                     "required":  true
+                 },
+                 {
+                     "name":  "xaeroworldmap-fabric-1.21.11-1.40.16.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/xaeroworldmap-fabric-1.21.11-1.40.16.jar",
+                     "sha256":  "b4cead471ee1bf0984e4628a3a6ebe34041f73784391216d6d789194a20e9b02",
+                     "required":  true
                  }
-             ],
-    "background_url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/launcher/fondo.png",
-    "news":  {
-                 "title":  "🚀 ¡GRANDES NOVEDADES EN LA RATONERA! 🚀",
-                 "body":  "Hola a todos, @everyone! Los administradores y moderadores hemos estado trabajando duro en las alcantarillas del servidor para traerles una actualización masiva. Prepárense, porque se vienen cositas muy duras. 🧀✨\n\nAquí tienen el resumen de todo lo nuevo que ya está implementado y listo para disfrutar:\n\n🌟 1. Nuevos Rangos y Permisos (LuckPerms)\nHemos reestructurado por completo el sistema de rangos para que tu progreso en el servidor se note de verdad.\n\n🎖️ Nuevas medallas visuales en el tabulador y arriba de tu personaje.\n\n🔓 Acceso a comandos exclusivos cosméticos según tu actividad.\n\n🛡️ ¡El equipo de moderación ahora tiene herramientas más rápidas para mantener la paz en la madriguera!\n\n🎒 2. Mejoras de Calidad de Vida (EssentialsX)\n¡Moverse por el mundo ahora es más cómodo y divertido!\n\n🏠 Más hogares: Ahora puedes guardar más ubicaciones con /sethome para que no pierdas tus construcciones.\n\n💸 Economía mejorada: El mercado del spawn se ha actualizado. ¡Nuevos items disponibles para comprar y vender!\n\n⚡ Kits renovados: Los kits iniciales y semanales traen sorpresas que te ayudarán en tus aventuras nocturnas.",
-                 "updated_at":  "2026-05-28 19:07"
-             }
+             ]
 }
