@@ -1,11 +1,6 @@
 ﻿{
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
-    "news":  {
-                 "title":  "NUEVOS MODS",
-                 "body":  "ZAASASASDDADASGASGAG\r\nASD\r\nASDF\r\nDSF",
-                 "updated_at":  "2026-05-28 19:39"
-             },
     "mods":  [
                  {
                      "name":  "CustomSkinLoader_Fabric-14.28.jar",
@@ -73,5 +68,6 @@
                      "sha256":  "b4cead471ee1bf0984e4628a3a6ebe34041f73784391216d6d789194a20e9b02",
                      "required":  true
                  }
-             ]
+             ],
+    "background_url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/launcher/fondo.png"
 }
