@@ -1,6 +1,12 @@
 ﻿{
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
+    "news":  {
+                 "title":  "se cambvio l fondo",
+                 "body":  "fondo cambiado zaaa",
+                 "updated_at":  "2026-05-28 19:32"
+             },
+    "background_url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/launcher/fondo.png",
     "mods":  [
                  {
                      "name":  "CustomSkinLoader_Fabric-14.28.jar",
