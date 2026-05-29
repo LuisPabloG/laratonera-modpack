@@ -45,9 +45,5 @@
                      "required":  true
                  }
              ],
-    "news":  {
-                 "title":  "🚀 ¡GRANDES NOVEDADES EN LA RATONERA! 🚀",
-                 "body":  "Hola a todos, @everyone! Los administradores y moderadores hemos estado trabajando duro en las alcantarillas del servidor para traerles una actualización masiva. Prepárense, porque se vienen cositas muy duras. 🧀✨\n\nAquí tienen el resumen de todo lo nuevo que ya está implementado y listo para disfrutar:\n\n🌟 1. Nuevos Rangos y Permisos (LuckPerms)\nHemos reestructurado por completo el sistema de rangos para que tu progreso en el servidor se note de verdad.\n\n🎖️ Nuevas medallas visuales en el tabulador y arriba de tu personaje.\n\n🔓 Acceso a comandos exclusivos cosméticos según tu actividad.\n\n🛡️ ¡El equipo de moderación ahora tiene herramientas más rápidas para mantener la paz en la madriguera!\n\n🎒 2. Mejoras de Calidad de Vida (EssentialsX)\n¡Moverse por el mundo ahora es más cómodo y divertido!\n\n🏠 Más hogares: Ahora puedes guardar más ubicaciones con /sethome para que no pierdas tus construcciones.\n\n💸 Economía mejorada: El mercado del spawn se ha actualizado. ¡Nuevos items disponibles para comprar y vender!\n\n⚡ Kits renovados: Los kits iniciales y semanales traen sorpresas que te ayudarán en tus aventuras nocturnas.",
-                 "updated_at":  "2026-05-28 18:30"
-             }
+    "background_url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/launcher/fondo.png"
 }
