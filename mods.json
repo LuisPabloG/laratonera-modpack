@@ -2,9 +2,9 @@
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
     "news":  {
-                 "title":  "1.0.1",
-                 "body":  "",
-                 "updated_at":  "2026-07-02 17:31"
+                 "title":  "nuevo login",
+                 "body":  "azaza",
+                 "updated_at":  "2026-07-02 17:52"
              },
     "mods":  [
                  {
@@ -35,6 +35,12 @@
                      "name":  "la-ratonera-login-1.0.1.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/la-ratonera-login-1.0.1.jar",
                      "sha256":  "f548721318cd592c61e312384a0f8c2193042a4562116ed8f7e7b5fa4de48191",
+                     "required":  true
+                 },
+                 {
+                     "name":  "la-ratonera-login-1.0.2.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/la-ratonera-login-1.0.2.jar",
+                     "sha256":  "b72ed926182f51409d79553801bcc257e90eb2880c08da5c6397b4f70168327b",
                      "required":  true
                  },
                  {
