@@ -2,9 +2,9 @@
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
     "news":  {
-                 "title":  "nuevologin",
-                 "body":  "zaa",
-                 "updated_at":  "2026-07-02 17:25"
+                 "title":  "1.0.1",
+                 "body":  "",
+                 "updated_at":  "2026-07-02 17:31"
              },
     "mods":  [
                  {
@@ -32,9 +32,9 @@
                      "required":  true
                  },
                  {
-                     "name":  "la-ratonera-login-1.0.0.jar",
-                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/la-ratonera-login-1.0.0.jar",
-                     "sha256":  "628678dbb87465a4a55503c671fc564f881429b8cd3125de61d11fee8eb21d39",
+                     "name":  "la-ratonera-login-1.0.1.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/la-ratonera-login-1.0.1.jar",
+                     "sha256":  "f548721318cd592c61e312384a0f8c2193042a4562116ed8f7e7b5fa4de48191",
                      "required":  true
                  },
                  {
