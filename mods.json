@@ -2,11 +2,76 @@
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
     "news":  {
-                 "title":  "se implemento login",
-                 "body":  "",
+                 "title":  "se implemento login nuevo za",
+                 "body":  "zaa",
                  "updated_at":  "2026-07-02 01:40"
              },
     "mods":  [
-
+                 {
+                     "name":  "CustomSkinLoader_Fabric-14.28.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/CustomSkinLoader_Fabric-14.28.jar",
+                     "sha256":  "e5973b2c680b46dd64e2cd1b4c6137188b71eb3aec7e06060fdb028dc3c9a05e",
+                     "required":  true
+                 },
+                 {
+                     "name":  "fabric-api-0.141.4+1.21.11.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/fabric-api-0.141.4+1.21.11.jar",
+                     "sha256":  "9286762874fd20d1d45e006d175fea8ff762da54e00946bbe952c4f61077159a",
+                     "required":  true
+                 },
+                 {
+                     "name":  "indium-1.0.35+mc1.21.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/indium-1.0.35+mc1.21.jar",
+                     "sha256":  "13bd78303315ca8f08ea19dfacce8566e152c56615e93a07c490965f390d4ed8",
+                     "required":  true
+                 },
+                 {
+                     "name":  "jei-1.21.11-fabric-27.4.0.22.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/jei-1.21.11-fabric-27.4.0.22.jar",
+                     "sha256":  "fa9b6d6b457a8222286ab81a7aa13a5befad709490d81e109afd31b848f138f5",
+                     "required":  true
+                 },
+                 {
+                     "name":  "lithium-fabric-0.21.4+mc1.21.11.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/lithium-fabric-0.21.4+mc1.21.11.jar",
+                     "sha256":  "5135c41da5b43cbdcb29424bde65195143ac4084e23834c8eac065942201c78b",
+                     "required":  true
+                 },
+                 {
+                     "name":  "mcw-furniture-3.4.2-mc1.21.11fabric.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/mcw-furniture-3.4.2-mc1.21.11fabric.jar",
+                     "sha256":  "e55d7a78b878043af82875cb8738941b0bba1a3c77652dea3d75a434dbba1a0e",
+                     "required":  true
+                 },
+                 {
+                     "name":  "puzzle-fabric-2.3.0+1.21.11.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/puzzle-fabric-2.3.0+1.21.11.jar",
+                     "sha256":  "ede7c2fd01ad83530fba902f7a987ba2eee11419d9034d569edfa43d5979197d",
+                     "required":  true
+                 },
+                 {
+                     "name":  "sodium-fabric-0.8.12+mc1.21.11.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/sodium-fabric-0.8.12+mc1.21.11.jar",
+                     "sha256":  "009299748f192f6246fd6759a26304f0fea06f3412cff522d1d533e2b8db8176",
+                     "required":  true
+                 },
+                 {
+                     "name":  "voicechat-fabric-1.21.11-2.6.10.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/voicechat-fabric-1.21.11-2.6.10.jar",
+                     "sha256":  "070fbeb8da680aebbb6d013f3d26a0b5514b060a0d29bb5b07348d0666eb18ed",
+                     "required":  true
+                 },
+                 {
+                     "name":  "xaerominimap-fabric-1.21.11-25.3.12.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/xaerominimap-fabric-1.21.11-25.3.12.jar",
+                     "sha256":  "ffbba377946a59e0e3d19ec043a6a0422ce081f1373f14dd336d05971fc8dcf4",
+                     "required":  true
+                 },
+                 {
+                     "name":  "xaeroworldmap-fabric-1.21.11-1.40.16.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/xaeroworldmap-fabric-1.21.11-1.40.16.jar",
+                     "sha256":  "b4cead471ee1bf0984e4628a3a6ebe34041f73784391216d6d789194a20e9b02",
+                     "required":  true
+                 }
              ]
 }
