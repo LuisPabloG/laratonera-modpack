@@ -2,17 +2,11 @@
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
     "news":  {
-                 "title":  "nuevoooo zaaaa1212",
-                 "body":  "zaazazaz1212",
-                 "updated_at":  "2026-07-02 01:44"
+                 "title":  "nuevologin",
+                 "body":  "zaa",
+                 "updated_at":  "2026-07-02 17:25"
              },
     "mods":  [
-                 {
-                     "name":  "authme-fabric-9.1.0+1.21.11.jar",
-                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/authme-fabric-9.1.0+1.21.11.jar",
-                     "sha256":  "640f405b71aca96f129d55f3bb6578672599c2e5eefc4385ed5b0bd06dd470df",
-                     "required":  true
-                 },
                  {
                      "name":  "CustomSkinLoader_Fabric-14.28.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/CustomSkinLoader_Fabric-14.28.jar",
@@ -35,6 +29,12 @@
                      "name":  "jei-1.21.11-fabric-27.4.0.22.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/jei-1.21.11-fabric-27.4.0.22.jar",
                      "sha256":  "fa9b6d6b457a8222286ab81a7aa13a5befad709490d81e109afd31b848f138f5",
+                     "required":  true
+                 },
+                 {
+                     "name":  "la-ratonera-login-1.0.0.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/la-ratonera-login-1.0.0.jar",
+                     "sha256":  "628678dbb87465a4a55503c671fc564f881429b8cd3125de61d11fee8eb21d39",
                      "required":  true
                  },
                  {
