@@ -2,9 +2,9 @@
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
     "news":  {
-                 "title":  "nuevo login",
-                 "body":  "azaza",
-                 "updated_at":  "2026-07-02 17:52"
+                 "title":  "zaaaaasda",
+                 "body":  "nuevvvvoo",
+                 "updated_at":  "2026-07-02 17:55"
              },
     "mods":  [
                  {
@@ -29,12 +29,6 @@
                      "name":  "jei-1.21.11-fabric-27.4.0.22.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/jei-1.21.11-fabric-27.4.0.22.jar",
                      "sha256":  "fa9b6d6b457a8222286ab81a7aa13a5befad709490d81e109afd31b848f138f5",
-                     "required":  true
-                 },
-                 {
-                     "name":  "la-ratonera-login-1.0.1.jar",
-                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/la-ratonera-login-1.0.1.jar",
-                     "sha256":  "f548721318cd592c61e312384a0f8c2193042a4562116ed8f7e7b5fa4de48191",
                      "required":  true
                  },
                  {
