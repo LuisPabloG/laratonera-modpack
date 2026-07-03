@@ -2,9 +2,9 @@
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
     "news":  {
-                 "title":  "fizzy",
-                 "body":  "",
-                 "updated_at":  "2026-07-03 16:52"
+                 "title":  "",
+                 "body":  "languaje",
+                 "updated_at":  "2026-07-03 16:56"
              },
     "mods":  [
                  {
@@ -23,6 +23,12 @@
                      "name":  "fabric-api-0.141.4+1.21.11.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/fabric-api-0.141.4+1.21.11.jar",
                      "sha256":  "9286762874fd20d1d45e006d175fea8ff762da54e00946bbe952c4f61077159a",
+                     "required":  true
+                 },
+                 {
+                     "name":  "fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
+                     "sha256":  "36c5dd8b728e3470d2882ae63119b93a20500fc0ea6f5c945c12bf65b5ab1832",
                      "required":  true
                  },
                  {
