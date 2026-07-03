@@ -4,7 +4,7 @@
     "news":  {
                  "title":  "AUDIOS MEJORADOS",
                  "body":  "",
-                 "updated_at":  "2026-07-03 16:12"
+                 "updated_at":  "2026-07-03 16:23"
              },
     "mods":  [
                  {
@@ -23,6 +23,12 @@
                      "name":  "fabric-api-0.141.4+1.21.11.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/fabric-api-0.141.4+1.21.11.jar",
                      "sha256":  "9286762874fd20d1d45e006d175fea8ff762da54e00946bbe952c4f61077159a",
+                     "required":  true
+                 },
+                 {
+                     "name":  "image2map-0.12.1+1.21.11.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/image2map-0.12.1+1.21.11.jar",
+                     "sha256":  "d66212eb6ea9800b460b663d11a3af9175abe4e6fdfb5d1d81b039bc26be434b",
                      "required":  true
                  },
                  {
