@@ -2,9 +2,9 @@
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
     "news":  {
-                 "title":  "se quito imagen",
+                 "title":  "AUDIOS MEJORADOS",
                  "body":  "",
-                 "updated_at":  "2026-07-03 16:09"
+                 "updated_at":  "2026-07-03 16:12"
              },
     "mods":  [
                  {
@@ -131,6 +131,12 @@
                      "name":  "sodium-fabric-0.8.12+mc1.21.11.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/sodium-fabric-0.8.12+mc1.21.11.jar",
                      "sha256":  "009299748f192f6246fd6759a26304f0fea06f3412cff522d1d533e2b8db8176",
+                     "required":  true
+                 },
+                 {
+                     "name":  "sound-physics-remastered-fabric-1.21.11-1.5.1.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/sound-physics-remastered-fabric-1.21.11-1.5.1.jar",
+                     "sha256":  "17a4c14f58b739d275089262fc2015ff1548425202e6e4d7ce8cecf3122cdbca",
                      "required":  true
                  },
                  {
