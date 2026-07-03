@@ -4,7 +4,7 @@
     "news":  {
                  "title":  "se quito image2",
                  "body":  "",
-                 "updated_at":  "2026-07-03 16:45"
+                 "updated_at":  "2026-07-03 16:47"
              },
     "mods":  [
                  {
@@ -23,6 +23,12 @@
                      "name":  "fabric-api-0.141.4+1.21.11.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/fabric-api-0.141.4+1.21.11.jar",
                      "sha256":  "9286762874fd20d1d45e006d175fea8ff762da54e00946bbe952c4f61077159a",
+                     "required":  true
+                 },
+                 {
+                     "name":  "immersive_paintings-fabric-1.21.11-0.7.8 (3).jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/immersive_paintings-fabric-1.21.11-0.7.8 (3).jar",
+                     "sha256":  "f5a8d742cf4045d3de3e52c37a1bdbf8a8644d58adfa5c1d06fa0ba31e1243c9",
                      "required":  true
                  },
                  {
