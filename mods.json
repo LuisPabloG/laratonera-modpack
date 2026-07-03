@@ -2,9 +2,9 @@
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
     "news":  {
-                 "title":  "SE IMPLEMENTO TP",
+                 "title":  "SE AGREGARON NUEVOS MUEBLES",
                  "body":  "",
-                 "updated_at":  "2026-07-03 00:44"
+                 "updated_at":  "2026-07-03 15:46"
              },
     "mods":  [
                  {
@@ -50,9 +50,45 @@
                      "required":  true
                  },
                  {
+                     "name":  "mcw-bridges-3.1.2-mc1.21.11fabric.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/mcw-bridges-3.1.2-mc1.21.11fabric.jar",
+                     "sha256":  "b55697065ce942aaf2ed7a1aeef36f655ec70aa67339690dab9ca3a879dba33d",
+                     "required":  true
+                 },
+                 {
+                     "name":  "mcw-doors-1.1.5-mc1.21.11fabric.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/mcw-doors-1.1.5-mc1.21.11fabric.jar",
+                     "sha256":  "2d68c0bf20b0549420fa84306d2f6fac1503aea378ce9ada13905133cb722dee",
+                     "required":  true
+                 },
+                 {
+                     "name":  "mcw-fences-1.2.1-mc1.21.11fabric.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/mcw-fences-1.2.1-mc1.21.11fabric.jar",
+                     "sha256":  "a543e02ffbda18a801912984a1867be6e294bcc9dcf5087c28db9ab1ebe63d27",
+                     "required":  true
+                 },
+                 {
                      "name":  "mcw-furniture-3.4.2-mc1.21.11fabric.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/mcw-furniture-3.4.2-mc1.21.11fabric.jar",
                      "sha256":  "e55d7a78b878043af82875cb8738941b0bba1a3c77652dea3d75a434dbba1a0e",
+                     "required":  true
+                 },
+                 {
+                     "name":  "mcw-roofs-2.3.2-mc1.21.11fabric.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/mcw-roofs-2.3.2-mc1.21.11fabric.jar",
+                     "sha256":  "4850de31eed4dc8ee2cea19edabe454fc2bcaccad5ed5bbcbb0b9b2c9cc2aed2",
+                     "required":  true
+                 },
+                 {
+                     "name":  "mcw-stairs-1.0.2-mc1.21.11fabric.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/mcw-stairs-1.0.2-mc1.21.11fabric.jar",
+                     "sha256":  "81a605663bdf4dcedf815f47a8c14230d78e009e46412afcbfbfc12d5205d1e4",
+                     "required":  true
+                 },
+                 {
+                     "name":  "mcw-windows-2.4.2-mc1.21.11fabric.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/mcw-windows-2.4.2-mc1.21.11fabric.jar",
+                     "sha256":  "508e9ac9979fbdc063a3c4468aeb2a2d9cc1cccc300f41ab006f3fb4032fe6c2",
                      "required":  true
                  },
                  {
