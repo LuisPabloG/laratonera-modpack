@@ -2,9 +2,9 @@
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
     "news":  {
-                 "title":  "zaaa123142354523456",
-                 "body":  "234252",
-                 "updated_at":  "2026-07-02 18:18"
+                 "title":  "NUEVO LOGIN",
+                 "body":  "NUEVO LOGIN 6",
+                 "updated_at":  "2026-07-02 18:34"
              },
     "mods":  [
                  {
@@ -32,9 +32,9 @@
                      "required":  true
                  },
                  {
-                     "name":  "la-ratonera-login-1.0.4.jar",
-                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/la-ratonera-login-1.0.4.jar",
-                     "sha256":  "9aee1b6baef3cc9824771f0d5b9580363f6a1a23967a2d23a7eede860adc91bb",
+                     "name":  "la-ratonera-login-1.0.6.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/la-ratonera-login-1.0.6.jar",
+                     "sha256":  "e28473a40330644c3e08d9ab7928df25e4348b8ad7ff067d16a174c74b5184ec",
                      "required":  true
                  },
                  {
