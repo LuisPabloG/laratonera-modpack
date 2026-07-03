@@ -2,9 +2,9 @@
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
     "news":  {
-                 "title":  "zaaaaasda",
-                 "body":  "nuevvvvoo",
-                 "updated_at":  "2026-07-02 17:55"
+                 "title":  "zaaa123142354523456",
+                 "body":  "234252",
+                 "updated_at":  "2026-07-02 18:18"
              },
     "mods":  [
                  {
@@ -32,9 +32,9 @@
                      "required":  true
                  },
                  {
-                     "name":  "la-ratonera-login-1.0.2.jar",
-                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/la-ratonera-login-1.0.2.jar",
-                     "sha256":  "b72ed926182f51409d79553801bcc257e90eb2880c08da5c6397b4f70168327b",
+                     "name":  "la-ratonera-login-1.0.4.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/la-ratonera-login-1.0.4.jar",
+                     "sha256":  "9aee1b6baef3cc9824771f0d5b9580363f6a1a23967a2d23a7eede860adc91bb",
                      "required":  true
                  },
                  {
