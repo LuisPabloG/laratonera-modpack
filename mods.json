@@ -2,21 +2,15 @@
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
     "news":  {
-                 "title":  "NUEVOS MODS",
-                 "body":  "MOD DE CONSTRUCCION",
-                 "updated_at":  "2026-07-02 23:47"
+                 "title":  "ACTUAZACION",
+                 "body":  "",
+                 "updated_at":  "2026-07-03 00:01"
              },
     "mods":  [
                  {
                      "name":  "CustomSkinLoader_Fabric-14.28.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/CustomSkinLoader_Fabric-14.28.jar",
                      "sha256":  "e5973b2c680b46dd64e2cd1b4c6137188b71eb3aec7e06060fdb028dc3c9a05e",
-                     "required":  true
-                 },
-                 {
-                     "name":  "effortless-1.21.3-3.4.0.jar",
-                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/effortless-1.21.3-3.4.0.jar",
-                     "sha256":  "d430e2965ef6a44d6dc10a01778cc52ec41b2f98d70bb07a5ae717d62230cfab",
                      "required":  true
                  },
                  {
