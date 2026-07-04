@@ -2,21 +2,15 @@
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
     "news":  {
-                 "title":  "DISTANT HORIZONS",
-                 "body":  "ZAAA",
-                 "updated_at":  "2026-07-04 13:35"
+                 "title":  "SE QUITO DISTANT  HORIZONS",
+                 "body":  "",
+                 "updated_at":  "2026-07-04 13:44"
              },
     "mods":  [
                  {
                      "name":  "CustomSkinLoader_Fabric-14.28.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/CustomSkinLoader_Fabric-14.28.jar",
                      "sha256":  "e5973b2c680b46dd64e2cd1b4c6137188b71eb3aec7e06060fdb028dc3c9a05e",
-                     "required":  true
-                 },
-                 {
-                     "name":  "DistantHorizons-3.1.2-b-1.21.11-fabric-neoforge.jar",
-                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/DistantHorizons-3.1.2-b-1.21.11-fabric-neoforge.jar",
-                     "sha256":  "b62aa5c0f9432d3a97037051f22aea5f63341fb31f830ea7d275b4b3276bc848",
                      "required":  true
                  },
                  {
