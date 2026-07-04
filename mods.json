@@ -2,9 +2,9 @@
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
     "news":  {
-                 "title":  "12.04",
+                 "title":  "se quito dinero",
                  "body":  "",
-                 "updated_at":  "2026-07-03 20:17"
+                 "updated_at":  "2026-07-03 20:42"
              },
     "mods":  [
                  {
@@ -143,12 +143,6 @@
                      "name":  "puzzle-fabric-2.3.0+1.21.11.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/puzzle-fabric-2.3.0+1.21.11.jar",
                      "sha256":  "ede7c2fd01ad83530fba902f7a987ba2eee11419d9034d569edfa43d5979197d",
-                     "required":  true
-                 },
-                 {
-                     "name":  "ratonera-1.0.4.jar",
-                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/ratonera-1.0.4.jar",
-                     "sha256":  "d7ab59121b44481743e66f6024ced6f79fd9baecd10fd8d0b0416761e1e1b99d",
                      "required":  true
                  },
                  {
