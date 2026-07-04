@@ -2,15 +2,21 @@
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
     "news":  {
-                 "title":  "",
-                 "body":  "languaje",
-                 "updated_at":  "2026-07-03 16:56"
+                 "title":  "dinero fisico",
+                 "body":  "",
+                 "updated_at":  "2026-07-03 19:12"
              },
     "mods":  [
                  {
                      "name":  "CustomSkinLoader_Fabric-14.28.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/CustomSkinLoader_Fabric-14.28.jar",
                      "sha256":  "e5973b2c680b46dd64e2cd1b4c6137188b71eb3aec7e06060fdb028dc3c9a05e",
+                     "required":  true
+                 },
+                 {
+                     "name":  "dinerofisicov1.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/dinerofisicov1.jar",
+                     "sha256":  "34dfc90cf8d004c11de68fd449c6b4a31f055532e9b73ccdc8aaf2b45905e956",
                      "required":  true
                  },
                  {
