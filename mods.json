@@ -2,9 +2,9 @@
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
     "news":  {
-                 "title":  "nuevoovo",
-                 "body":  "",
-                 "updated_at":  "2026-07-03 19:39"
+                 "title":  "1.0.4",
+                 "body":  "1.0.4",
+                 "updated_at":  "2026-07-03 20:14"
              },
     "mods":  [
                  {
@@ -146,9 +146,9 @@
                      "required":  true
                  },
                  {
-                     "name":  "ratonera-1.0.0.jar",
-                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/ratonera-1.0.0.jar",
-                     "sha256":  "e853ae34a584e3048095d32feabbf56eb95c3f75aee25294e7dc0c04840c9e99",
+                     "name":  "ratonera-1.0.4.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/ratonera-1.0.4.jar",
+                     "sha256":  "d7ab59121b44481743e66f6024ced6f79fd9baecd10fd8d0b0416761e1e1b99d",
                      "required":  true
                  },
                  {
