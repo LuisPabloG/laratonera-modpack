@@ -2,9 +2,9 @@
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
     "news":  {
-                 "title":  "nuevo dinero zaa",
+                 "title":  "cambios 6mb",
                  "body":  "",
-                 "updated_at":  "2026-07-03 19:18"
+                 "updated_at":  "2026-07-03 19:26"
              },
     "mods":  [
                  {
@@ -148,7 +148,7 @@
                  {
                      "name":  "ratonera-1.0.0.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/ratonera-1.0.0.jar",
-                     "sha256":  "5d70973836bce8940935b6366601af20bf1a603a7a86a2a2c325debaa2d251d9",
+                     "sha256":  "6cd9f679bad26d14796798007ba105d74718fde3f8636eea57fbbad437b4006b",
                      "required":  true
                  },
                  {
