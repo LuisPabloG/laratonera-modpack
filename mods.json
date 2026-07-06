@@ -2,9 +2,9 @@
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
     "news":  {
-                 "title":  "SE AGREGARON EMOTES",
+                 "title":  "PASOS REALISTAS",
                  "body":  "",
-                 "updated_at":  "2026-07-06 12:57"
+                 "updated_at":  "2026-07-06 13:13"
              },
     "mods":  [
                  {
@@ -161,6 +161,12 @@
                      "name":  "PlayerAnimationLibFabric-1.1.7+mc.1.21.11.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/PlayerAnimationLibFabric-1.1.7+mc.1.21.11.jar",
                      "sha256":  "b2f466f45bd35766aadac2ee849bd8a9e01056f60c2b34162127772e43ab08c3",
+                     "required":  true
+                 },
+                 {
+                     "name":  "PresenceFootsteps-1.12.4+1.21.11.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/PresenceFootsteps-1.12.4+1.21.11.jar",
+                     "sha256":  "c333a4f82696b38ed0fd0558878dce67489c6105b00fafe01cccba73155ae569",
                      "required":  true
                  },
                  {
