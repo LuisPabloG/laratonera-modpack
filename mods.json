@@ -2,9 +2,9 @@
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
     "news":  {
-                 "title":  "SE AGREGO DECOCRAFT",
-                 "body":  "ZAA",
-                 "updated_at":  "2026-07-06 00:16"
+                 "title":  "SE AGREGARON EMOTES",
+                 "body":  "",
+                 "updated_at":  "2026-07-06 12:57"
              },
     "mods":  [
                  {
@@ -17,6 +17,12 @@
                      "name":  "decocraft-3.0.9-1.21.11-fabric.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/decocraft-3.0.9-1.21.11-fabric.jar",
                      "sha256":  "4bbb007f143b815d23e211cdf655575c63c571fde423d469443f1e4ae8fa7a9d",
+                     "required":  true
+                 },
+                 {
+                     "name":  "emotecraft-fabric-for-MC1.21.11-3.2.0-b.build.151.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/emotecraft-fabric-for-MC1.21.11-3.2.0-b.build.151.jar",
+                     "sha256":  "1705ecfc62d9afcbc8a57f3e23cfa1c0bc48fec0e83d37bff327543dbb1f120a",
                      "required":  true
                  },
                  {
@@ -149,6 +155,12 @@
                      "name":  "mcw-windows-2.4.2-mc1.21.11fabric.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/mcw-windows-2.4.2-mc1.21.11fabric.jar",
                      "sha256":  "508e9ac9979fbdc063a3c4468aeb2a2d9cc1cccc300f41ab006f3fb4032fe6c2",
+                     "required":  true
+                 },
+                 {
+                     "name":  "PlayerAnimationLibFabric-1.1.7+mc.1.21.11.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/PlayerAnimationLibFabric-1.1.7+mc.1.21.11.jar",
+                     "sha256":  "b2f466f45bd35766aadac2ee849bd8a9e01056f60c2b34162127772e43ab08c3",
                      "required":  true
                  },
                  {
