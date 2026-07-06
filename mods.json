@@ -2,9 +2,9 @@
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
     "news":  {
-                 "title":  "PASOS REALISTAS",
+                 "title":  "se quito emotes PASOS REALISTAS",
                  "body":  "",
-                 "updated_at":  "2026-07-06 13:13"
+                 "updated_at":  "2026-07-06 13:41"
              },
     "mods":  [
                  {
@@ -17,12 +17,6 @@
                      "name":  "decocraft-3.0.9-1.21.11-fabric.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/decocraft-3.0.9-1.21.11-fabric.jar",
                      "sha256":  "4bbb007f143b815d23e211cdf655575c63c571fde423d469443f1e4ae8fa7a9d",
-                     "required":  true
-                 },
-                 {
-                     "name":  "emotecraft-fabric-for-MC1.21.11-3.2.0-b.build.151.jar",
-                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/emotecraft-fabric-for-MC1.21.11-3.2.0-b.build.151.jar",
-                     "sha256":  "1705ecfc62d9afcbc8a57f3e23cfa1c0bc48fec0e83d37bff327543dbb1f120a",
                      "required":  true
                  },
                  {
