@@ -2,9 +2,9 @@
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
     "news":  {
-                 "title":  "se quito emotes PASOS REALISTAS",
-                 "body":  "",
-                 "updated_at":  "2026-07-06 13:41"
+                 "title":  "NPCS",
+                 "body":  "NPCS",
+                 "updated_at":  "2026-07-10 20:38"
              },
     "mods":  [
                  {
@@ -17,6 +17,24 @@
                      "name":  "decocraft-3.0.9-1.21.11-fabric.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/decocraft-3.0.9-1.21.11-fabric.jar",
                      "sha256":  "4bbb007f143b815d23e211cdf655575c63c571fde423d469443f1e4ae8fa7a9d",
+                     "required":  true
+                 },
+                 {
+                     "name":  "easy_npc_bundle-fabric-1.21.11-6.25.0.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/easy_npc_bundle-fabric-1.21.11-6.25.0.jar",
+                     "sha256":  "7cd2fb9b98e3bd11b39352e8166a804392426a29f30d26db8d248c40d2648cea",
+                     "required":  true
+                 },
+                 {
+                     "name":  "easy_npc_config_ui-fabric-1.21.11-6.25.0.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/easy_npc_config_ui-fabric-1.21.11-6.25.0.jar",
+                     "sha256":  "17547b29fa2997e103348eac0df225ad6497c1988af6aa381baeb84b88c5e4ea",
+                     "required":  true
+                 },
+                 {
+                     "name":  "easy_npc-fabric-1.21.11-6.25.0.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/easy_npc-fabric-1.21.11-6.25.0.jar",
+                     "sha256":  "ec3551694e1f911987729729b24a8b81fc2b243a1bb603a8c880e1ab619cc53f",
                      "required":  true
                  },
                  {
