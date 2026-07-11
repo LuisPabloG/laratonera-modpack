@@ -2,9 +2,9 @@
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
     "news":  {
-                 "title":  "NPCS",
-                 "body":  "NPCS",
-                 "updated_at":  "2026-07-10 20:38"
+                 "title":  "se agrego GUi WorldEdit",
+                 "body":  "",
+                 "updated_at":  "2026-07-10 21:35"
              },
     "mods":  [
                  {
@@ -203,6 +203,12 @@
                      "name":  "voicechat-fabric-1.21.11-2.6.10.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/voicechat-fabric-1.21.11-2.6.10.jar",
                      "sha256":  "070fbeb8da680aebbb6d013f3d26a0b5514b060a0d29bb5b07348d0666eb18ed",
+                     "required":  true
+                 },
+                 {
+                     "name":  "WorldEditCUI-1.21.11+01.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/WorldEditCUI-1.21.11+01.jar",
+                     "sha256":  "1a90614a511c23a41288da62ed339107d16c357512eb4a74fd6b4c9b7631fa95",
                      "required":  true
                  },
                  {
