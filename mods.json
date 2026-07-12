@@ -2,9 +2,9 @@
     "minecraft_version":  "fabric-loader-0.15.11-1.20.1",
     "loader":  "fabric",
     "news":  {
-                 "title":  "se agrego GUi WorldEdit",
-                 "body":  "",
-                 "updated_at":  "2026-07-10 21:35"
+                 "title":  "SE AGREGO EFFORTLESS",
+                 "body":  "ZA",
+                 "updated_at":  "2026-07-11 19:39"
              },
     "mods":  [
                  {
@@ -35,6 +35,12 @@
                      "name":  "easy_npc-fabric-1.21.11-6.25.0.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/easy_npc-fabric-1.21.11-6.25.0.jar",
                      "sha256":  "ec3551694e1f911987729729b24a8b81fc2b243a1bb603a8c880e1ab619cc53f",
+                     "required":  true
+                 },
+                 {
+                     "name":  "effortlessbuilding-4.1+1.21.11.jar",
+                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/effortlessbuilding-4.1+1.21.11.jar",
+                     "sha256":  "9f1a76b6ffcee42fbeff948a3e2c47f29f7a486cd2cb6e95396b1a868e9262a5",
                      "required":  true
                  },
                  {
