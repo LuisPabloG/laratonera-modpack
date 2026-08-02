@@ -4,7 +4,7 @@
     "news":  {
                  "title":  "se agrego pantalla",
                  "body":  "",
-                 "updated_at":  "2026-08-01 18:16"
+                 "updated_at":  "2026-08-01 18:46"
              },
     "mods":  [
                  {
@@ -68,12 +68,6 @@
                      "required":  true
                  },
                  {
-                     "name":  "fancymenu_fabric_3.9.9_MC_1.21.11.jar",
-                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/fancymenu_fabric_3.9.9_MC_1.21.11.jar",
-                     "sha256":  "35abbbc7a7069ca2a2cb142e77011ffbcc0cea8c9b90fac11d7a05d76e8e8a7a",
-                     "required":  true
-                 },
-                 {
                      "name":  "fzzy_config-0.7.6+1.21.11.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/fzzy_config-0.7.6+1.21.11.jar",
                      "sha256":  "6c91c9ed35f01d560a6cb59f5e15266b2ce87d81d69b52aec9df33f71c1b50ea",
@@ -101,12 +95,6 @@
                      "name":  "jei-1.21.11-fabric-27.4.0.22.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/jei-1.21.11-fabric-27.4.0.22.jar",
                      "sha256":  "fa9b6d6b457a8222286ab81a7aa13a5befad709490d81e109afd31b848f138f5",
-                     "required":  true
-                 },
-                 {
-                     "name":  "konkrete_fabric_1.9.18_MC_1.21.11.jar",
-                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/konkrete_fabric_1.9.18_MC_1.21.11.jar",
-                     "sha256":  "f3b9981af032bfcbee1fe8e1f4e945d87eaebb1077e2b4cd89953516b181e61e",
                      "required":  true
                  },
                  {
@@ -191,12 +179,6 @@
                      "name":  "mcw-windows-2.4.2-mc1.21.11fabric.jar",
                      "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/mcw-windows-2.4.2-mc1.21.11fabric.jar",
                      "sha256":  "508e9ac9979fbdc063a3c4468aeb2a2d9cc1cccc300f41ab006f3fb4032fe6c2",
-                     "required":  true
-                 },
-                 {
-                     "name":  "melody_fabric_1.0.15_MC_1.21.11.jar",
-                     "url":  "https://raw.githubusercontent.com/LuisPabloG/laratonera-modpack/main/mods/melody_fabric_1.0.15_MC_1.21.11.jar",
-                     "sha256":  "43133956147e24742e069cdae7025acbb801882a86b470e26d453c8481809670",
                      "required":  true
                  },
                  {
